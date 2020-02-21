@@ -35,3 +35,9 @@ Subir el tag v0.1
 	1.Subir los cambios al repositorio remoto.
 	git add .
 	git push -u origin master
+Crear una tabla
+	1.Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase:
+		NOMBRE 	   GITHUB
+		Jaime	   github.com/JaimeGarcia98
+		Cristian   github.com/Cristiancj99
+		Pablo      github.com/pjarroyo
